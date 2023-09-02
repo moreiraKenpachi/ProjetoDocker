@@ -1,1 +1,1 @@
-Aqui será desenvolvido o projeto para utilização de reacursos.
+Aqui será desenvolvido o projeto para utilização de recursos.
